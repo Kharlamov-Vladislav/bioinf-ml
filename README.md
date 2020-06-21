@@ -1,4 +1,4 @@
-## Курс машинного обучения из [института биоинформатики](bioinf.me) 2019/2020.
+## Курс машинного обучения из [института биоинформатики](https://bioinf.me) 2019/2020.
 
 Преподаватели: 
 1. [Нина Лукашина](https://research.jetbrains.org/ru/researchers/nlukashina) (JetBrains Research);
